@@ -11,9 +11,9 @@ Admin account is: Name= Admin
                   
 Customer accounts can be created by clicking `Registr` link-button.
 
-#Admin
+#`Admin`
 Admin can basically do CRUD process of home appliances for the application.
 
-#Customer
+#`Customer`
 Customer can add items into cart and rent.
 Customer must choose rental period before renting an appliance. Each appliance has minimum rental period.
