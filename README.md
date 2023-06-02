@@ -9,7 +9,7 @@ Admin and Customer.
 Admin account is: Name= Admin
                   Password = Admin123
                   
-Customer accounts can be created by clicking `Registr` link-button.
+Customer accounts can be created by clicking `Register` link-button.
 
 #`Admin`
 Admin can basically do CRUD process of home appliances for the application.
